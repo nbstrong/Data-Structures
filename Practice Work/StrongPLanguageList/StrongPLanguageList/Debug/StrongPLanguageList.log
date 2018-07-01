@@ -1,0 +1,10 @@
+﻿  PLanguageSource.cpp
+d:\google drive\schoolwork\data structures\practice work\strongplanguagelist\strongplanguagelist\planguagesource.cpp(22): error C2955: 'std::array': use of class template requires template argument list
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\utility(306): note: see declaration of 'std::array'
+d:\google drive\schoolwork\data structures\practice work\strongplanguagelist\strongplanguagelist\planguagesource.cpp(22): error C2143: syntax error: missing ';' before '['
+d:\google drive\schoolwork\data structures\practice work\strongplanguagelist\strongplanguagelist\planguagesource.cpp(22): error C3409: empty attribute block is not allowed
+d:\google drive\schoolwork\data structures\practice work\strongplanguagelist\strongplanguagelist\planguagesource.cpp(22): error C2143: syntax error: missing ']' before 'constant'
+d:\google drive\schoolwork\data structures\practice work\strongplanguagelist\strongplanguagelist\planguagesource.cpp(22): error C2059: syntax error: 'constant'
+  PLanguage.cpp
+  DoublyLinkedList.cpp
+  Generating Code...

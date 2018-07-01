@@ -1,0 +1,7 @@
+﻿  TextFileDemo.cpp
+c:\users\nicholas\google drive\schoolwork\data structures\practice work\textfiledemo\textfiledemo\textfiledemo\textfiledemo.cpp(61): warning C4018: '<': signed/unsigned mismatch
+c:\users\nicholas\google drive\schoolwork\data structures\practice work\textfiledemo\textfiledemo\textfiledemo\textfiledemo.cpp(67): warning C4018: '<': signed/unsigned mismatch
+  Book.cpp
+  Generating Code...
+  TextFileDemo.vcxproj -> C:\Users\Nicholas\Google Drive\Schoolwork\Data Structures\Practice Work\TextFileDemo\TextFileDemo\Debug\TextFileDemo.exe
+  TextFileDemo.vcxproj -> C:\Users\Nicholas\Google Drive\Schoolwork\Data Structures\Practice Work\TextFileDemo\TextFileDemo\Debug\TextFileDemo.pdb (Full PDB)
